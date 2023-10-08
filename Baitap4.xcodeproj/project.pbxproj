@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		1075363E2AD23B5600A44F58 /* Baitap4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Baitap4; sourceTree = BUILT_PRODUCTS_DIR; };
 		107536412AD23B5600A44F58 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		107536482AD2516600A44F58 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				107536412AD23B5600A44F58 /* main.swift */,
+				107536482AD2516600A44F58 /* README.md */,
 			);
 			path = Baitap4;
 			sourceTree = "<group>";
