@@ -39,3 +39,6 @@ if let lastEvenPosition = positions.1 {
     print("Không có số chẵn trong mảng.")
 }
 
+
+print("ancncnc")
+
